@@ -1,5 +1,7 @@
 Scripts and snippets for vultr
 
+<a href="https://www.vultr.com/?ref=6844672"><img src="https://www.vultr.com/media/468x60_03.gif" width="468" height="60"></a>
+
 - [vultr-cli](https://github.com/JamesClonk/vultr)
 
 ### Create CentOS 7 x64 1GB Sydney $8/mo
